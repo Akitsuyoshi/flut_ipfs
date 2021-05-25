@@ -1,3 +1,5 @@
+# Referring to official flutter/samples repo
+# https://github.com/flutter/samples/blob/master/animations/analysis_options.yaml
 include: package:pedantic/analysis_options.1.9.0.yaml
 
 analyzer:
